@@ -1,4 +1,8 @@
 # ME_BUILDOUT_XCOMMERCE_ANALYTICS
+
+<p align="center"> 
+<img width="200" height="200" src="https://raw.githubusercontent.com/axitchandora/Personal-Stuff/main/Images/qmoney.png"> 
+
 ## Overview
 
 XCommerce is a tool to analyze multi-channel e-commerce sales data. Sellers can list their products for sale on multiple e-commerce websites like Amazon, Flipkart, etc. XCommerce helps to analyze transaction data across these channels and provide sales insights.
